@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Nikolakisae_FreeShippingAdmin",
+    "name": "OpenMageModuleFostering\/Nikolakisae_FreeShippingAdmin",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Free Shipping Admin",
     "authors": [
-    {
-        "name": "Niko K",
-        "email": "info@nikolakisae.com"
-    }
-],
+        {
+            "name": "Niko K",
+            "email": "info@nikolakisae.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
